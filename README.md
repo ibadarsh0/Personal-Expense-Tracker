@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Personal Expense Tracker Banner">
+</p>
+
 # Personal Expense Tracker
 
 A command-line Personal Expense Tracker built using Python. The project allows users to record, view, search, delete, and analyze personal expenses. Data is stored locally in a JSON file and reports can be exported as CSV.
